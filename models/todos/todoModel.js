@@ -1,4 +1,11 @@
-// const mongoose = require('mongoose')
+const mongoose = require('mongoose')
 
 
-// const todoSchem
+const todoSchema = new mongoose.Schema({
+
+
+    
+})
+
+
+
